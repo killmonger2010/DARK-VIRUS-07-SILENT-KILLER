@@ -10,11 +10,11 @@
 
  $ pip2 install requests 
 
- $ git clone https://github.com/pasyago/Dark-Virus-07 
+ $ git clone https://github.com/pasyago/DARK-VIRUS-07-SILENT-KILLER
 
- $ cd Dark-Virus-07 
+ $ cd DARK-VIRUS-07-SILENT-KILLER
 
- $ python2 DARKVIRUS07.py     
+ $ python2 .py    
 
    Dark Virus 07 We Are Silent Killer Respect Us. 
 
